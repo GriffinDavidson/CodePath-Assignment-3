@@ -15,7 +15,8 @@
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/r2jk6xW.gif" width=250><br>
+App Icon w/ styled homescreen / launchscreen + login / logout
+<img src="https://i.imgur.com/jcB00XL.gif" width=250><br>
 
 ### Notes
 Eventually got used to auto-layout and its workings, finally nice to use the swift way to set a UIImage from a file from the web. Didn't have much problem exceot couldn't figure out how / where to swap out the API key, secret, and authorization key with my own
