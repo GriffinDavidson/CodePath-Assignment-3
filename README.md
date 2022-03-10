@@ -16,6 +16,7 @@
 ### App Walkthrough GIF
 
 <img src="https://i.imgur.com/rh9XmTf.png" width=250><br>
+<img src="https://i.imgur.com/rgb6Sxm.png" width=250><br>
 
 ### Notes
 Full GIF: <a href = "https://i.imgur.com/q9y3ePp.gif" target="_blank">here</a>
