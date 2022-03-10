@@ -18,6 +18,6 @@
 <img src="https://i.imgur.com/q9y3ePp.gif" width=250><br>
 
 ### Notes
-Full GIF: <a href = "https://i.imgur.com/q9y3ePp.gif">here</a>
+Full GIF: <a href = "https://i.imgur.com/q9y3ePp.gif" target="_blank" rel="noopener noreferrer">here</a>
 
 Eventually got used to auto-layout and its workings, finally nice to use the swift way to set a UIImage from a file from the web. Didn't have much problem exceot couldn't figure out how / where to swap out the API key, secret, and authorization key with my own
