@@ -2,7 +2,7 @@
 
 ### User Stories
 
-#### REQUIRED (10pts)
+#### REQUIRED 
 - [x] User sees app icon in home screen and styled launch screen.
 - [x] User can log in.
 - [x] User can log out.
